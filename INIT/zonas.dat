@@ -124,6 +124,9 @@ X2=256
 Y2=1131
 Segura=0
 Terreno=1
+Niebla=120
+
+
 
 [Zona12]
 Nombre=Fuerte Pretoriano
