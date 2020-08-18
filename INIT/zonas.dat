@@ -1,5 +1,5 @@
 [Config]
-Cantidad=109
+Cantidad=114
 
 [Zona1]
 Nombre=Ullathorpe
@@ -34,6 +34,11 @@ Y2=96
 Segura=1
 Musica1=12
 Terreno=2
+Acoplar=0
+Niebla=150
+NieblaR=200
+NieblaG=50
+NieblaB=50
 
 [Zona4]
 Nombre=Norte de Banderbill
@@ -124,9 +129,6 @@ X2=256
 Y2=1131
 Segura=0
 Terreno=1
-Niebla=120
-
-
 
 [Zona12]
 Nombre=Fuerte Pretoriano
@@ -1070,10 +1072,10 @@ Segura=0
 [Zona106]
 Nombre=Bosques de Arghal
 Mapa=1
-X1=599
-Y1=356
-X2=728
-Y2=417
+X1=346
+Y1=988
+X2=438
+Y2=1062
 Segura=0
 Musica1=19
 Acoplar=0
@@ -1105,6 +1107,54 @@ Mapa=1
 X1=37
 Y1=401
 X2=122
-Y2=578
+Y2=571
 Segura=0
 Acoplar=0
+Niebla=0
+NieblaR=0
+NieblaG=0
+NieblaB=0
+[Zona110]
+Nombre=Meson
+Mapa=2
+X1=61
+Y1=647
+X2=136
+Y2=722
+Segura=0
+[Zona111]
+Nombre=Meson Sotano
+Mapa=2
+X1=149
+Y1=657
+X2=225
+Y2=705
+Segura=0
+[Zona112]
+Nombre=Templo de los Dioses
+Mapa=2
+X1=248
+Y1=615
+X2=295
+Y2=662
+Segura=1
+Acoplar=0
+Musica1=62
+[Zona113]
+Nombre=Circulo Sagrado de Clan
+Mapa=1
+X1=536
+Y1=817
+X2=588
+Y2=873
+Segura=0
+NpcInvocadoIndex=0
+TieneNpcInvocacion=1
+[Zona114]
+Nombre=Isla de clan
+Mapa=1
+X1=490
+Y1=462
+X2=569
+Y2=522
+Segura=0
