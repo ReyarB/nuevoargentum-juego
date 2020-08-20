@@ -11,6 +11,8 @@ Y2=900
 Segura=1
 Musica1=4
 Terreno=2
+Sonido1=233
+
 
 [Zona2]
 Nombre=Nix
@@ -23,6 +25,10 @@ Segura=1
 Musica1=5
 Terreno=2
 Acoplar=0
+Sonido1=233
+Sonido2=34
+Sonido3=29
+Sonido4=28
 
 [Zona3]
 Nombre=Muelle de Banderbill
@@ -39,6 +45,10 @@ Niebla=150
 NieblaR=200
 NieblaG=50
 NieblaB=50
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
 
 [Zona4]
 Nombre=Norte de Banderbill
@@ -50,6 +60,7 @@ Y2=182
 Segura=1
 Musica1=12
 Terreno=2
+Sonido1=120
 
 [Zona5]
 Nombre=Banderbill Central
@@ -61,6 +72,7 @@ Y2=276
 Segura=1
 Musica1=12
 Terreno=2
+Sonido1=233
 
 [Zona6]
 Nombre=Sur de Banderbill
@@ -72,6 +84,10 @@ Y2=330
 Segura=1
 Musica1=12
 Terreno=2
+Sonido1=4
+Sonido2=8
+Sonido3=21
+Sonido4=29
 
 [Zona7]
 Nombre=Oeste de Banderbill
@@ -83,6 +99,10 @@ Y2=330
 Segura=1
 Musica1=12
 Terreno=2
+Sonido1=4
+Sonido2=8
+Sonido3=21
+Sonido4=29
 
 [Zona8]
 Nombre=Lindos del Oeste
@@ -95,6 +115,10 @@ Segura=1
 Terreno=2
 Musica1=16
 Acoplar=0
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
 
 [Zona9]
 Nombre=Abadia de Lindos
@@ -107,6 +131,10 @@ Segura=1
 Terreno=2
 Musica1=16
 Acoplar=0
+Sonido1=61
+Sonido2=61
+Sonido3=62
+Sonido4=63
 
 [Zona10]
 Nombre=Lindos del Este
@@ -119,6 +147,10 @@ Segura=1
 Terreno=2
 Musica1=16
 Acoplar=0
+Sonido1=61
+Sonido2=61
+Sonido3=62
+Sonido4=63
 
 [Zona11]
 Nombre=Bosque Dork
@@ -129,6 +161,11 @@ X2=256
 Y2=1131
 Segura=0
 Terreno=1
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=125
+Sonido5=131
 
 [Zona12]
 Nombre=Fuerte Pretoriano
@@ -150,6 +187,10 @@ Y2=59
 Segura=0
 Musica1=10
 Acoplar=0
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
 
 [Zona14]
 Nombre=Bosques de Arkhein
@@ -160,7 +201,11 @@ X2=512
 Y2=1344
 Segura=0
 Terreno=1
-Musica1=81
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=125
+Sonido5=131
 
 [Zona15]
 Nombre=Teatro El Juglar de Arkhein
@@ -183,6 +228,11 @@ Y2=1442
 Segura=1
 Terreno=2
 Musica1=81
+Sonido1=94
+Sonido2=127
+Sonido3=128
+Sonido4=125
+Sonido5=233
 
 [Zona17]
 Nombre=Muelle de Arkhein
@@ -195,6 +245,10 @@ Segura=1
 Terreno=2
 Musica1=81
 Acoplar=0
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
 
 [Zona18]
 Nombre=Arghal Central
@@ -207,6 +261,9 @@ Segura=1
 Terreno=2
 Musica1=68
 Acoplar=0
+Sonido1=61
+Sonido2=62
+Sonido3=63
 
 [Zona19]
 Nombre=Muelle de Arghal
@@ -218,6 +275,14 @@ Y2=355
 Segura=1
 Terreno=2
 Musica1=68
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
 
 [Zona20]
 Nombre=Ciudad Esperanza
@@ -230,6 +295,10 @@ Segura=1
 Terreno=2
 Musica1=16
 Acoplar=0
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
 
 [Zona21]
 Nombre=Islas de Esperanza
@@ -241,6 +310,14 @@ Y2=1490
 Segura=0
 Musica1=19
 Acoplar=0
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
 
 [Zona22]
 Nombre=Islas de Esperanza
@@ -252,6 +329,14 @@ Y2=1490
 Segura=0
 Musica1=19
 Acoplar=0
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
 
 [Zona23]
 Nombre=Bosque
@@ -264,6 +349,11 @@ Segura=0
 Terreno=2
 Musica1=3
 Musica2=20
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=125
+Sonido5=131
 
 [Zona24]
 Nombre=Mar
@@ -311,6 +401,7 @@ Segura=0
 Terreno=3
 Musica1=10
 Acoplar=0
+
 [Zona28]
 Nombre=Ruina de lobos
 Mapa=1
@@ -322,6 +413,9 @@ Segura=0
 Terreno=3
 Musica1=10
 Acoplar=0
+Sonido1=81
+Sonido2=81
+
 [Zona29]
 Nombre=Bosque Marabel
 Mapa=1
@@ -332,6 +426,12 @@ Y2=669
 Segura=0
 Terreno=1
 Musica1=3
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=94
+Sonido5=
+
 [Zona30]
 Nombre=Arghal
 Mapa=1
@@ -379,6 +479,7 @@ Segura=1
 Restringir=13
 Terreno=5
 Musica1=7
+
 [Zona34]
 Nombre=Dungeon Newbie
 Mapa=2
@@ -391,6 +492,7 @@ Restringir=13
 Terreno=5
 Musica1=7
 Acoplar=0
+
 [Zona35]
 Nombre=Dungeon Newbie - Norte
 Mapa=2
@@ -403,6 +505,7 @@ Restringir=13
 Terreno=5
 Musica1=7
 Acoplar=0
+
 [Zona36]
 Nombre=Dungeon Marabel
 Mapa=2
@@ -413,6 +516,7 @@ Y2=281
 Segura=0
 Terreno=5
 Musica1=15
+
 [Zona37]
 Nombre=Dungeon Verill - Fuerte
 Mapa=2
@@ -423,6 +527,9 @@ Y2=103
 Segura=0
 Terreno=5
 Musica1=18
+Sonido1=166
+Sonido2=165
+
 [Zona38]
 Nombre=Dungeon Verill
 Mapa=2
@@ -433,6 +540,9 @@ Y2=192
 Segura=0
 Terreno=5
 Musica1=18
+Sonido1=163
+Sonido2=158
+
 [Zona39]
 Nombre=Dungeon Verill
 Mapa=2
@@ -442,7 +552,9 @@ X2=162
 Y2=378
 Segura=0
 Terreno=5
-Musica1=18
+Musica1=18Sonido1=163
+Sonido2=158
+
 [Zona40]
 Nombre=Dungeon Verill - Lago
 Mapa=2
@@ -453,6 +565,7 @@ Y2=348
 Segura=0
 Terreno=5
 Musica1=18
+
 [Zona41]
 Nombre=Catacumbas
 Mapa=2
@@ -463,6 +576,7 @@ Y2=395
 Segura=0
 Terreno=5
 Musica1=9
+
 [Zona42]
 Nombre=Catacumbas de Nix
 Mapa=2
@@ -473,6 +587,7 @@ Y2=460
 Segura=0
 Terreno=5
 Musica1=9
+
 [Zona43]
 Nombre=Minas de Hierro
 Mapa=2
@@ -483,6 +598,7 @@ Y2=395
 Segura=0
 Terreno=5
 Musica1=9
+
 [Zona44]
 Nombre=Minas de Oro
 Mapa=2
@@ -494,6 +610,7 @@ Segura=0
 Terreno=5
 Musica1=9
 Acoplar=0
+
 [Zona45]
 Nombre=Minas de Plata
 Mapa=2
@@ -505,6 +622,7 @@ Segura=0
 Terreno=5
 Musica1=9
 Acoplar=0
+
 [Zona46]
 Nombre=Laberinto Oscuro
 Mapa=2
@@ -515,6 +633,7 @@ Y2=640
 Segura=0
 Terreno=5
 Musica1=15
+
 [Zona47]
 Nombre=Desfiladero del Fuerte Pretoriano
 Mapa=2
@@ -525,6 +644,7 @@ Y2=592
 Segura=0
 Terreno=5
 Musica1=50
+
 [Zona48]
 Nombre=Aldea Pretoriana
 Mapa=2
@@ -535,6 +655,7 @@ Y2=592
 Segura=0
 Terreno=5
 Musica1=21
+
 [Zona49]
 Nombre=Fuerte Pretoriano
 Mapa=2
@@ -545,6 +666,7 @@ Y2=513
 Segura=0
 Terreno=5
 Musica1=20
+
 [Zona50]
 Nombre=Aldea Pretoriana
 Mapa=2
@@ -555,6 +677,7 @@ Y2=502
 Segura=0
 Terreno=5
 Musica1=21
+
 [Zona51]
 Nombre=Dungeon Dragon
 Mapa=2
@@ -565,6 +688,7 @@ Y2=476
 Segura=0
 Terreno=5
 Musica1=14
+
 [Zona52]
 Nombre=Ducto de Escape
 Mapa=2
@@ -574,6 +698,7 @@ X2=565
 Y2=483
 Segura=0
 Terreno=5
+
 [Zona53]
 Nombre=Ducto de Escape
 Mapa=2
@@ -584,6 +709,7 @@ Y2=200
 Segura=0
 Terreno=5
 Musica1=15
+
 [Zona54]
 Nombre=Ducto de Escape
 Mapa=2
@@ -594,6 +720,7 @@ Y2=303
 Segura=0
 Terreno=5
 Musica1=15
+
 [Zona55]
 Nombre=Mausoleo
 Mapa=2
@@ -604,6 +731,7 @@ Y2=99
 Segura=0
 Terreno=5
 Musica1=59
+
 [Zona56]
 Nombre=Interior de la Montaña
 Mapa=2
@@ -614,6 +742,7 @@ Y2=392
 Segura=0
 Terreno=5
 Musica1=110
+
 [Zona57]
 Nombre=Interior de la Montaña
 Mapa=2
@@ -624,6 +753,7 @@ Y2=281
 Segura=0
 Terreno=5
 Musica1=110
+
 [Zona58]
 Nombre=Interior de la Montaña
 Mapa=2
@@ -635,6 +765,7 @@ Segura=0
 Terreno=5
 Musica1=110
 Acoplar=0
+
 [Zona59]
 Nombre=Entrada a Dungeon Inferno
 Mapa=1
@@ -644,6 +775,7 @@ X2=910
 Y2=406
 Segura=0
 Musica1=17
+
 [Zona60]
 Nombre=Isla Morgolock
 Mapa=1
@@ -653,6 +785,14 @@ X2=806
 Y2=531
 Segura=0
 Musica1=17
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona61]
 Nombre=Montaña Ungdrin Ankon
 Mapa=1
@@ -662,6 +802,11 @@ X2=761
 Y2=172
 Segura=0
 Musica1=108
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=94
+Sonido5=103
 
 [Zona62]
 Nombre=Polo Norte
@@ -674,6 +819,7 @@ Segura=0
 Terreno=4
 Musica1=29
 Acoplar=0
+
 [Zona63]
 Nombre=Minas de Hierro
 Mapa=2
@@ -685,6 +831,7 @@ Segura=0
 Terreno=5
 Musica1=9
 Acoplar=0
+
 [Zona64]
 Nombre=Laberinto
 Mapa=1
@@ -694,6 +841,7 @@ X2=1010
 Y2=1220
 Segura=0
 Acoplar=0
+
 [Zona65]
 Nombre=Laberinto
 Mapa=1
@@ -703,6 +851,7 @@ X2=1010
 Y2=1210
 Segura=0
 Acoplar=0
+
 [Zona66]
 Nombre=Laberinto
 Mapa=1
@@ -712,6 +861,7 @@ X2=1010
 Y2=1230
 Segura=0
 Acoplar=0
+
 [Zona67]
 Nombre=Laberinto
 Mapa=1
@@ -721,6 +871,7 @@ X2=1010
 Y2=1240
 Segura=0
 Acoplar=0
+
 [Zona68]
 Nombre=Laberinto
 Mapa=1
@@ -730,6 +881,7 @@ X2=1010
 Y2=1250
 Segura=0
 Acoplar=0
+
 [Zona69]
 Nombre=Entrada Laberinto
 Mapa=1
@@ -739,6 +891,7 @@ X2=1010
 Y2=1260
 Segura=0
 Acoplar=0
+
 [Zona70]
 Nombre=Peninsula de Arghal
 Mapa=1
@@ -748,6 +901,7 @@ X2=836
 Y2=376
 Segura=0
 Musica1=20
+
 [Zona71]
 Nombre=Peninsula de Arghal
 Mapa=1
@@ -757,6 +911,7 @@ X2=840
 Y2=428
 Segura=0
 Musica1=20
+
 [Zona72]
 Nombre=Peninsula de Arghal
 Mapa=1
@@ -766,6 +921,7 @@ X2=770
 Y2=538
 Segura=0
 Musica1=20
+
 [Zona73]
 Nombre=Peninsula de Arghal
 Mapa=1
@@ -775,6 +931,7 @@ X2=793
 Y2=455
 Segura=0
 Musica1=20
+
 [Zona74]
 Nombre=Isla Victoria
 Mapa=1
@@ -786,6 +943,14 @@ Segura=1
 Terreno=2
 Musica1=56
 Acoplar=0
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona75]
 Nombre=Sala de Retos
 Mapa=2
@@ -797,6 +962,7 @@ Segura=0
 InviSinEfecto=1
 ResuSinEfecto=1
 Terreno=5
+
 [Zona76]
 Nombre=Isla Euclides
 Mapa=1
@@ -806,6 +972,14 @@ X2=73
 Y2=1490
 Segura=0
 Acoplar=1
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona77]
 Nombre=Isla Euclides
 Mapa=1
@@ -814,6 +988,14 @@ Y1=1393
 X2=186
 Y2=1490
 Segura=0
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona78]
 Nombre=Isla Almandar
 Mapa=1
@@ -823,6 +1005,14 @@ X2=1085
 Y2=1490
 Segura=0
 Acoplar=1
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona79]
 Nombre=Bosque Dork
 Mapa=1
@@ -833,6 +1023,12 @@ Y2=1131
 Segura=0
 Musica1=19
 Acoplar=0
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=125
+Sonido5=131
+
 [Zona80]
 Nombre=Lago de Taninim
 Mapa=1
@@ -842,6 +1038,7 @@ X2=453
 Y2=414
 Segura=0
 Musica1=20
+
 [Zona81]
 Nombre=Batallon de Ankon
 Mapa=1
@@ -852,6 +1049,7 @@ Y2=189
 Segura=0
 Musica1=10
 Acoplar=1
+
 [Zona82]
 Nombre=Batallon de Ankon
 Mapa=1
@@ -862,6 +1060,7 @@ Y2=188
 Segura=0
 Musica1=10
 Acoplar=0
+
 [Zona83]
 Nombre=Bosque Elfico
 Mapa=1
@@ -872,6 +1071,12 @@ Y2=293
 Segura=0
 Musica1=10
 Acoplar=0
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=125
+Sonido5=131
+
 [Zona84]
 Nombre=Islas del Pirata
 Mapa=1
@@ -881,6 +1086,14 @@ X2=257
 Y2=118
 Segura=0
 Musica1=8
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona85]
 Nombre=Bosques de Arkhein
 Mapa=1
@@ -890,6 +1103,12 @@ X2=473
 Y2=1442
 Segura=0
 Musica1=81
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=125
+Sonido5=131
+
 [Zona86]
 Nombre=Playas de Arkhein
 Mapa=1
@@ -900,6 +1119,14 @@ Y2=1470
 Segura=0
 Musica1=81
 Acoplar=0
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona87]
 Nombre=Guardia de la Fortaleza Oeste
 Mapa=1
@@ -910,6 +1137,7 @@ Y2=1313
 Segura=0
 Terreno=7
 Acoplar=0
+
 [Zona88]
 Nombre=Guardia de la Fortaleza Este
 Mapa=1
@@ -919,6 +1147,7 @@ X2=1085
 Y2=1261
 Segura=0
 Terreno=7
+
 [Zona89]
 Nombre=Fortaleza Este
 Mapa=1
@@ -928,6 +1157,7 @@ X2=1085
 Y2=1490
 Segura=0
 Terreno=7
+
 [Zona90]
 Nombre=Fortaleza Oeste
 Mapa=1
@@ -937,6 +1167,7 @@ X2=69
 Y2=1490
 Segura=0
 Terreno=7
+
 [Zona91]
 Nombre=Mansion de Nix
 Mapa=1
@@ -947,6 +1178,7 @@ Y2=1166
 Segura=0
 Musica1=5
 Acoplar=0
+
 [Zona92]
 Nombre=Puente de los Caidos
 Mapa=1
@@ -956,6 +1188,12 @@ X2=620
 Y2=97
 Segura=0
 Musica1=10
+Sonido1=107
+Sonido2=107
+Sonido3=108
+Sonido4=91
+Sonido5=144
+
 [Zona93]
 Nombre=Senderos del Norte
 Mapa=1
@@ -965,6 +1203,7 @@ X2=327
 Y2=826
 Segura=0
 Musica1=12
+
 [Zona94]
 Nombre=Senderos del Sur
 Mapa=1
@@ -974,6 +1213,7 @@ X2=319
 Y2=1171
 Segura=0
 Musica1=12
+
 [Zona95]
 Nombre=Senderos del Sur
 Mapa=1
@@ -983,6 +1223,7 @@ X2=256
 Y2=1171
 Segura=0
 Musica1=12
+
 [Zona96]
 Nombre=Minas de Hierro
 Mapa=1
@@ -992,6 +1233,7 @@ X2=407
 Y2=1158
 Segura=0
 Musica1=12
+
 [Zona97]
 Nombre=Senderos del Sur
 Mapa=1
@@ -1001,6 +1243,7 @@ X2=317
 Y2=1278
 Segura=0
 Musica1=12
+
 [Zona98]
 Nombre=Senderos del Sur
 Mapa=1
@@ -1010,6 +1253,7 @@ X2=431
 Y2=1314
 Segura=0
 Musica1=81
+
 [Zona99]
 Nombre=Senderos del Sur
 Mapa=1
@@ -1019,6 +1263,7 @@ X2=317
 Y2=1259
 Segura=0
 Musica1=81
+
 [Zona100]
 Nombre=Senderos del Sur
 Mapa=1
@@ -1028,6 +1273,7 @@ X2=431
 Y2=1344
 Segura=0
 Musica1=81
+
 [Zona101]
 Nombre=Senderos del Sur
 Mapa=1
@@ -1037,6 +1283,7 @@ X2=182
 Y2=1171
 Segura=0
 Acoplar=0
+
 [Zona102]
 Nombre=Playas de Arghal
 Mapa=1
@@ -1045,6 +1292,14 @@ Y1=361
 X2=598
 Y2=465
 Segura=0
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona103]
 Nombre=Playas de Arghal
 Mapa=1
@@ -1053,6 +1308,14 @@ Y1=389
 X2=649
 Y2=455
 Segura=0
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona104]
 Nombre=Playas de Arghal
 Mapa=1
@@ -1061,6 +1324,14 @@ Y1=418
 X2=699
 Y2=455
 Segura=0
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona105]
 Nombre=Playas de Arghal
 Mapa=1
@@ -1069,6 +1340,14 @@ Y1=415
 X2=453
 Y2=475
 Segura=0
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
+
 [Zona106]
 Nombre=Bosques de Arghal
 Mapa=1
@@ -1079,8 +1358,15 @@ Y2=1062
 Segura=0
 Musica1=19
 Acoplar=0
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=94
+Sonido5=103
+
 [Zona0]
 Acoplar=0
+
 [Zona107]
 Nombre=Bosques de Arghal
 Mapa=1
@@ -1091,6 +1377,12 @@ Y2=275
 Segura=0
 Musica1=68
 Acoplar=0
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=94
+Sonido5=103
+
 [Zona108]
 Nombre=Bosques de Arghal
 Mapa=1
@@ -1101,6 +1393,12 @@ Y2=293
 Segura=0
 Musica1=68
 Acoplar=0
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=94
+Sonido5=103
+
 [Zona109]
 Nombre=Bosque Elfico
 Mapa=1
@@ -1114,6 +1412,12 @@ Niebla=0
 NieblaR=0
 NieblaG=0
 NieblaB=0
+Sonido1=52
+Sonido2=71
+Sonido3=93
+Sonido4=125
+Sonido5=131
+
 [Zona110]
 Nombre=Meson
 Mapa=2
@@ -1122,6 +1426,8 @@ Y1=647
 X2=136
 Y2=722
 Segura=0
+Sonido1=233
+
 [Zona111]
 Nombre=Meson Sotano
 Mapa=2
@@ -1130,6 +1436,10 @@ Y1=657
 X2=225
 Y2=705
 Segura=0
+Sonido1=240
+Sonido2=240
+Sonido3=240
+
 [Zona112]
 Nombre=Templo de los Dioses
 Mapa=2
@@ -1140,21 +1450,30 @@ Y2=662
 Segura=1
 Acoplar=0
 Musica1=62
+
 [Zona113]
-Nombre=Circulo Sagrado de Clan
+Nombre=Circulo Sagrado
 Mapa=1
 X1=536
 Y1=817
 X2=588
 Y2=873
 Segura=0
-NpcInvocadoIndex=0
-TieneNpcInvocacion=1
+
 [Zona114]
-Nombre=Isla de clan
+Nombre=Isla Sagrada del Clan
 Mapa=1
 X1=490
 Y1=462
 X2=569
 Y2=522
 Segura=0
+NpcInvocadoIndex=0
+TieneNpcInvocacion=1
+Sonido2=61
+Sonido3=62
+Sonido4=63
+Sonido1=55
+Sonido2=61
+Sonido3=62
+Sonido4=63
